@@ -1,7 +1,7 @@
 # CIPP-EU
 These are my study notes for iapp's CIPP/EU privacy certification. These notes are intentionally brief, with the intention of being memorable and passing on key concepts rapidly. I would recommend the following reading order:
 
-* [EU Data Protection Law](https://github.com/rafaelh/CIPP-EU/blob/master/eu-data-protection-law.md)
+* [EU Data Protection Law](https://github.com/rafaelh/CIPP-EU/blob/master/EU-data-protection-law.md)
 
 
 
