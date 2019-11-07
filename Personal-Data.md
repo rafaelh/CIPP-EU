@@ -23,3 +23,9 @@ Data Concerning:
 
 Article 10 also calls out **Criminal Records**, stating that _"processing shall be carried out only under the control of official authority, or when the processing is authorised by Union or Member State law providing for appropriate safeguards for the rights and freedoms of data subjects"_.
 
+# Data Protection Roles
+There are 4 distinct roles:
+* **Data Subject** - a natural person about whom personal data is processed
+* **Data Controller** - an organisation or individual who determines _'the purposes and means of processing personal data'_
+* **Data Processor** - an organisation or individual who processes information on behalf of the controller. They do not exercise autonomy in deciding how the data is used and their activities must be transparent to the controller.
+* **Supervisory Authority** - an entity appointed to enforce privacy in a jurisdiction
