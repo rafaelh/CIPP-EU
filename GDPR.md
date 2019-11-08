@@ -52,9 +52,49 @@ Processing personal data wholly or partially by automated means (not automated d
 Processing other than by automated means of personal data which form part of a filing system
 
 ### Exclusions from Material Scope
-The following activities don't come under Material Scope:
+The following activities don't come under Material Scope, which should be interpreted narrowly:
 
 * Activities outside the scope of EU law (eg national security activities)
 * Law enforcement and public security
 * Purely personal or household activities
+
+## Legal Basis for Processing Data
+Processing data is lawful if at least one of the following legal bases applies:
+
+* **Consent** - the data subject consents to the processing of their personal data. Consent can't be used if their is a clear imbalance between the contoller and the data subject, such as between an employer and employee, or if the controller is a public authority.
+* **Contractual Necessity** - Processing is needed to enter into or perform a contract
+* **Legitimate Interests** - The data can be processed in ways that have a minimal privacy impact, that the data subject would reasonably expect. Examples woudl be Fraud Prevention, Direct Marketing, Administrative Purposes, etc. The controller must demonstrate that the data subjects rights have not been compromised, showing transparency, adequate safeguards and compliance. Public authorities must not rely on legitimate interests.
+* **Legal Obligations** - The controller has to process data for a legal obligation
+* **Public Interest** - Public authorityies and organisations in the scope of public duties can process data in ways that have been legislated
+* **Vital Interests** - Data can be processed in the interest of a data subject in emergency situations where they cannot provide consent
+
+## Processing Special Categories
+Processing of special categories is prohibited, unless an exception applies:
+
+* Explicit Consent
+* In the context of Employment, to comply with a legal obligation
+* Vital interests, where consent is not possible and the controller has tried to obtain it
+* Political, philosophical and religious purposes - foundations, associations and not-for-profits may process data about their own members
+* Sensitive data manifestly made public by the data subject
+* Establishment,exercise or defence of legal claims
+* Substantial public interest
+* Medicine and social healthcare, such ass assessing the work capacity of an employee, making a diagnosis, etc
+* Public archives, scientific, historical or statistical purposes
+
+Again, the controller must demonstrate that the data subjects rights have not been compromised, showing transparency, adequate safeguards and compliance.
+
+# Consent
+Asking for Consent must be:
+* Clearly distingishable
+* Intelligible
+* In clear and plain language
+
+Consent must be:
+* Freely given and unambiguous (not using silence, inactivity, pre-ticked boxes, etc)
+* Informed - the subject should know hte controller's identity, purpose, and information about how processing may affect data subjects
+* Withdrawing consent should be as easy as giving it
+* For a specific purpose (with some flexibility for scientific research)
+* given by a parent for Children's data when the subject is younger than 16. Member states can lower this age down to 13.
+
+Controllers must keep records of consent, under the Accountability principle. A service or the performance of a contract should **not** be conditional upon consent.
 
