@@ -29,3 +29,32 @@ There are 4 distinct roles:
 * **Data Controller** - an organisation or individual who determines _'the purposes and means of processing personal data'_
 * **Data Processor** - an organisation or individual who processes information on behalf of the controller. They do not exercise autonomy in deciding how the data is used and their activities must be transparent to the controller. Processing can include any operation performed on data, and does not soley apply to collection.
 * **Supervisory Authority** - an entity appointed to enforce privacy in a jurisdiction
+
+# GDPR Processing Principals
+GDPR sets out the following prinipals for processing data:
+
+* Lawfulness, fairness and transparency of processing
+* Purpose limitation - using data only for the purpose it was collected
+* Data minimization, storage limitation and proportionality - not collecting or keeping data that isn't necessecary for the purpose
+* Accuracy
+* Integrity and confidentiality - requiring security controls
+* Accountability - demonstrating compliance with EU and member-state laws
+
+## Territorial Scope 
+1. When a controller or processor is established in the EU
+2. When data subjects are in the EU
+3. The goods or services are offered in the EU
+4. Monitoring behaviour in the EU
+5. Processing by a controller in a place where member state law applies by virtue of public international law
+
+## Material Scope
+Processing personal data wholly or partially by automated means (not automated decision making)
+Processing other than by automated means of personal data which form part of a filing system
+
+### Exclusions from Material Scope
+The following activities don't come under Material Scope:
+
+* Activities outside the scope of EU law (eg national security activities)
+* Law enforcement and public security
+* Purely personal or household activities
+
