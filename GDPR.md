@@ -109,4 +109,19 @@ Data subjects may also find out IF their data has been processed, the purpose of
 Requests should be processed without undue delay, but not more than a month. A high volume of requests may allow an extension of up to two months.
 
 ## Data Portability
-Data must be made exportable in a commonly used, machine-readable format. The controller must help the individual trasfer data to another organisation, including sending the data directly.
+Data must be made exportable in a commonly used, machine-readable format. The controller must help the individual trasfer data to another organisation, including sending the data directly. This is only for electronic processing, and only for personal data collected from the data subject. It also doesn't include data derived/inferred from the data provided.
+
+Most important: This right only applies if the processing is based on **consent** or **contractual nessessity**. 
+
+# Right to Erasure / Right to be Forgotten
+Data subjects may request erasure for the following reasons:
+
+* The data is no longer necessary for the purpose
+* If the processing is based on consent, and the consent is withdrawn
+* If the processing is based on the controller's legitimate interest and the data subject objects
+* When require dfor compliance with EU or member-state law
+* If consent was given when the data subject was a child
+
+There are the usual exemptions for national security, crime prevention and protection of other's rights and freedoms, compliance with EU or member-state law, public health purposes, establishment, exercise or defense of legal claims and the public interest. Another valid exemption is the exercise of freedom of expression and information. 
+
+If the controller has made the data public, they must also take reasonable steps to inform the other controllers which are processing the data to remove it (eg Google). 
