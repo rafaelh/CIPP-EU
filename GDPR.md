@@ -125,3 +125,16 @@ Data subjects may request erasure for the following reasons:
 There are the usual exemptions for national security, crime prevention and protection of other's rights and freedoms, compliance with EU or member-state law, public health purposes, establishment, exercise or defense of legal claims and the public interest. Another valid exemption is the exercise of freedom of expression and information. 
 
 If the controller has made the data public, they must also take reasonable steps to inform the other controllers which are processing the data to remove it (eg Google). 
+
+# Restriction of Processing
+Data subjects may request that their data stop being processed, but is still stored. This can provide an alternative to erasure if the storage is legally required, ensures the protection of another person's right, or is in the public interest. The GDPR does not set down a specific method for restriction, but one option is to simply flag it in the system.
+
+Data subjects may request restriction of processing for the following reasons:
+
+* The accuracy of the data is contested
+* The processing is unlawful
+* The data is not needed
+* The data subject objects to the processing
+
+Once restricted, processing may only begin again with Consent, or to protect another's rights, exercise or defend legal claims, or in the public interest.
+
