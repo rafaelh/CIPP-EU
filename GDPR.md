@@ -98,3 +98,15 @@ Consent must be:
 
 Controllers must keep records of consent, under the Accountability principle. A service or the performance of a contract should **not** be conditional upon consent.
 
+# Data Subject Rights
+Under GDPR these are: Access and rectification, Data portability, Erasure, Restriction of Processing, Objection to Processing, Not to be subject to a decision based soley on automated processing.
+
+## Right to Access and Rectification
+Rights like Access and rectification should be free unless the Data Subject requests multiple copies, in which case a 'reasonable' administrative charge can be applied. The controller must take reasonable steps to identify the requester. Information may be exempt if it reveals personal data of another individual, or data that is exempt from disclosure.
+
+Data subjects may also find out IF their data has been processed, the purpose of the processing, the categories of data processed, why it was, and recipients (or categories of recipients) who recieved the data, and the retention period of the data.
+
+Requests should be processed without undue delay, but not more than a month. A high volume of requests may allow an extension of up to two months.
+
+## Data Portability
+Data must be made exportable in a commonly used, machine-readable format. The controller must help the individual trasfer data to another organisation, including sending the data directly.
