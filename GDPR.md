@@ -145,5 +145,7 @@ The data subject may object to the processing of personal data in the following 
 * Processing is based on Public Interests or the Controller's Legisimate Interests
 * Processing is for research or statistical purposes. This may be overridden by the public interest
 
+## not to be Subject to Decisions based on Automated Processing
+The data subject has the right not to be subject to decisions based soley on automated processing, including profiling (including cookies, web beacons and digital fingerprints) if the processing has a large impact or produces legal effects. Children should never be subject to these decisions. Subjects must be able to object, make their case to a human, and see the nature of the algorithm. 
 
-
+There are exeptions for decisions authorised by EU or member-state law, processing nessecary to enter into/perform a contract (eg evaluating credit or insurance risk), decisions based on the data subject's explicit consent. Decisions based on special categories of data are generally prohibited. 
