@@ -149,3 +149,30 @@ The data subject may object to the processing of personal data in the following 
 The data subject has the right not to be subject to decisions based soley on automated processing, including profiling (including cookies, web beacons and digital fingerprints) if the processing has a large impact or produces legal effects. Children should never be subject to these decisions. Subjects must be able to object, make their case to a human, and see the nature of the algorithm. 
 
 There are exeptions for decisions authorised by EU or member-state law, processing nessecary to enter into/perform a contract (eg evaluating credit or insurance risk), decisions based on the data subject's explicit consent. Decisions based on special categories of data are generally prohibited. 
+
+
+# Transparency
+Data controllers must communicate with Data Subjects in an intelligible and easily accessible form, using clear and plain language, in a concise form. For example, if the audience includes children, it must be understandable by children.
+
+This may be presented in 'layered' notices of up to three layers that provide increasing levels of information, so long as the sum of the documents meets legal requirements. It may also be delivered as a 'just-in-time' notice ahead of the information's use, and may also use standardized icons to assist with understanding. 
+
+## Information Provision Obligations
+If information is collected from an indirect source (such as scraping websites), it may require information to be provided after collection, but before processing. Notice is not required if the data subjects already have the information. 
+
+Direct Collection:
+* Data Subjects must have the identity and contact details of the Controller and DPO
+* Purpose and legal basis of processing
+* Recipients of the Personal Data
+* Intention to transfer data to a third country or organisation
+* Legal basis for intended international transfers
+* Legitimate interests of the controller, if used
+* Storage period
+* Data Subjects' rights ()
+* If processing the data is a Statutory or contractual requirement
+* Information about the use of automated decision-making
+
+Indirect Collection:
+* Data Subjects must be provided with the source of the data and the categories of personal data. This needs to be provided within 1 month or upon first communication with the data subject.
+* All the other information required for Direct Collection
+
+Exceptions: If the subject already has the information, if it's impossible or would require disproportionate effort, or it would renter impossible or seriously impair the purpose of the data processing. National or EU laws that require secrecy are also an exception.
