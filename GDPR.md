@@ -167,7 +167,7 @@ Direct Collection:
 * Legal basis for intended international transfers
 * Legitimate interests of the controller, if used
 * Storage period
-* Data Subjects' rights ()
+* Data Subjects' rights (To Withdraw Consent, Access Information, Restrict Processing, Lodge a Complaint with a DPA). Subject must also be informed that withdrawing consent doesn't affect the lawfulness of processing already done.
 * If processing the data is a Statutory or contractual requirement
 * Information about the use of automated decision-making
 
