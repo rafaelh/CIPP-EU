@@ -194,7 +194,7 @@ All of these must have supervisory authority authorization. The SCCs are pre-aut
 ## Adequacy Decisions
 Transfers to Adequate countries do not require additional safeguards. Adequacy decisions are made by the European Commission. Decisions made under the Data Protection Directive will remain in force until amended.
 
-## Derogaction
+## Derogations
 As a last resort, data can be transfered to a non-adequate, non-EEA country without a safeguard, with a derogation. These have been carried over from the Data Protection Directive, and are only for the following cases:
 
 * Consent (difficult to achieve _informed_ consent, given the risks)
@@ -204,3 +204,6 @@ As a last resort, data can be transfered to a non-adequate, non-EEA country with
 * Vital Interests
 * From a register of public information
 * Legitimate interests of the controller - non-repetitive, and for a limited number of individuals. This is only for the protection of individual's rights, assessment and documentation, suitable safeguards and notification to the data subject and supervisory authority of the transfer.
+
+## Restrictions
+Member states can restrict international exports of personal data.
