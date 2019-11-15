@@ -176,3 +176,31 @@ Indirect Collection:
 * All the other information required for Direct Collection
 
 Exceptions: If the subject already has the information, if it's impossible or would require disproportionate effort, or it would renter impossible or seriously impair the purpose of the data processing. National or EU laws that require secrecy are also an exception.
+
+
+# Cross Border Transfers
+Personal Data can only be sent outside the EEA with an appropriate safeguard that guarantees the protection of that data. Controllers are obligated to notify data subjects of the intent to transfer personal data internationally, the safeguards being used to protect the data and if it is to a country with or without an adequacy decision. 
+
+## Apropriate Safeguards
+These are legal tools designed to ensure the protection of personal data outside the EEA. They are:
+* Binding Corporate Rules
+* Standard Contractual Clauses
+* Approved codes of conduct and certification mechanisms (not defined yet)
+* Ad hoc contractual clauses
+* Reliance on international agreements (Privacy Shield)
+
+All of these must have supervisory authority authorization. The SCCs are pre-authorized provided no changes are made.
+
+## Adequacy Decisions
+Transfers to Adequate countries do not require additional safeguards. Adequacy decisions are made by the European Commission. Decisions made under the Data Protection Directive will remain in force until amended.
+
+## Derogaction
+As a last resort, data can be transfered to a non-adequate, non-EEA country without a safeguard, with a derogation. These have been carried over from the Data Protection Directive, and are only for the following cases:
+
+* Consent (difficult to achieve _informed_ consent, given the risks)
+* For the Performance of a Contract (eg booking a hotel in a 3rd country)
+* Public Interest
+* Establishment, exercise or defence of legal claims
+* Vital Interests
+* From a register of public information
+* Legitimate interests of the controller - non-repetitive, and for a limited number of individuals. This is only for the protection of individual's rights, assessment and documentation, suitable safeguards and notification to the data subject and supervisory authority of the transfer.
