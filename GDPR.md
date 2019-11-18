@@ -3,6 +3,8 @@ Defined in GDPR Article 4(1) as _any information relating to an identified or id
 
 GDPR does not apply to anonyimised data. Pseudonymous data, which has had some identifying information replaced with an identifier, is still governed by GDPR.
 
+Metadata is considered to be personal data under the GDPR.
+
 ## Special Categories of Personal Data
 Defined in Article 9(1) as follows:
 
@@ -29,6 +31,7 @@ There are 4 distinct roles:
 * **Data Controller** - an organisation or individual who determines _'the purposes and means of processing personal data'_
 * **Data Processor** - an organisation or individual who processes information on behalf of the controller. They do not exercise autonomy in deciding how the data is used and their activities must be transparent to the controller. Processing can include any operation performed on data, and does not soley apply to collection.
 * **Supervisory Authority** - an entity appointed to enforce privacy in a jurisdiction
+
 
 # GDPR Processing Principals
 GDPR sets out the following prinipals for processing data:
@@ -83,6 +86,7 @@ Processing of special categories is prohibited, unless an exception applies:
 
 Again, the controller must demonstrate that the data subjects rights have not been compromised, showing transparency, adequate safeguards and compliance.
 
+
 # Consent
 Asking for Consent must be:
 * Clearly distingishable
@@ -97,6 +101,7 @@ Consent must be:
 * given by a parent for Children's data when the subject is younger than 16. Member states can lower this age down to 13.
 
 Controllers must keep records of consent, under the Accountability principle. A service or the performance of a contract should **not** be conditional upon consent.
+
 
 # Data Subject Rights
 Under GDPR these are: Access and rectification, Data portability, Erasure, Restriction of Processing, Objection to Processing, Not to be subject to a decision based soley on automated processing.
@@ -223,7 +228,10 @@ Employee data can be proceessed in the following Exceptions
 * Legal claims
 * Obligations and rights
 
-Compliance with requirements for Trade Unions and Works Councils may also require:
-* Notifying
+Compliance with requirements for Trade Unions and Works Councils (Germany) may also require:
+* Notifying (concerning the rights of the employees)
 * Consulting With
 * Seeking Approval
+
+Employee personal data collected through monitoring must be held securely, accessed only by those with a legitimate reason, and deleted once no longer needed. Monitoring must be necessary, proportional, transparent and legitimate in order to be lawful.
+

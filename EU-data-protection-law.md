@@ -68,3 +68,11 @@ Key directive concepts include 'Necessity' with regards to processing data lawfu
 
 The directive is currently under review and will be updated.
 
+# The ePrivacy Directive
+Officially Directive 2002/58, also known as the Cookie Directive or Privacy and Electronic Communications Directive. It sets out rules over location, content and traffic data, particularly over public networks.
+
+* For location data, opt-in consent is required, except for carriers, who need it to provide the service
+* Content data must be protected, and not disclosed to 3rd parties
+* Traffic data can only be used for limited purposes. Telecommunications companies can use it to convey communication and marketing, with the user's consent. 
+
+If data is travelling over an intranet, ePrivacy rules do not apply. There is a clause for lawful interception when there is a legitimate business purpose, or for member state law.
