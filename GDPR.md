@@ -207,3 +207,23 @@ As a last resort, data can be transfered to a non-adequate, non-EEA country with
 
 ## Restrictions
 Member states can restrict international exports of personal data.
+
+
+# Compliance Considerations
+## Processing Employee Personal Data
+Member states can impose their own specific laws, on top of GDPR. Legal bases for processing employee data include:
+
+* **Fulfillment of an employment contract** - collecting bank details to process salaries
+* **Legal Obligation** - sharing salary information with tax authorities
+* **Legitimate interests of the employer** - moving data from one system to another. Can't be used for processing special categories of data. Public authorities may not rely on this.
+* **Consent** - Not normally usable due to power imbalance, but some local laws require consent to be obtained.
+
+Employee data can be proceessed in the following Exceptions
+* Explicit Consent - use as a last resort
+* Legal claims
+* Obligations and rights
+
+Compliance with requirements for Trade Unions and Works Councils may also require:
+* Notifying
+* Consulting With
+* Seeking Approval
