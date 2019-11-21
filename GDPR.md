@@ -247,4 +247,14 @@ Article 32 requirest appropriate security measures to be put in place. Security 
 * Process for regularly testing, assessing and evaluating
 
 ## Engaging Processors
-Article 28 requires controllers to only use processors that use sufficient controls to meet GDPR requirements. Processing must occur under a contract.
+Article 28 requires controllers to only use processors that use sufficient controls to meet GDPR requirements. Processing must occur under a contract, and processors should not engage sub-processors without a similar written contract.
+
+## Data Breach Notification
+Data subjects must be informed without undue delay, and no more than 72 hours if the breach is likely to be a high risk for the subjects. The controller must notify the supervisory authority within the same period. The controller must keep documentation to be able to provide to the supervisory authority. Notification to data subjects is not required if the data was encrypted, or if there was a similar control lowering the risk. 
+
+## NIS Directive
+This went into effect in May 2018 and is the first EU-wide cybersecurity law. Three key areas of the law are:
+
+* National Capabilities
+* Cross-border collaboration
+* National supervision of critical sectors
