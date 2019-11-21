@@ -1,4 +1,5 @@
 # DATA PROTECTION LAW
+The ePrivacy directive and GDPR are addressed in separate files.
 
 # Privacy is based on Human Rights
 This is not an absolute right and necessity and proportionality may justify breaching an individual's privacy in the public interest. Data privacy originates in two main instruments:
