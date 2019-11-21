@@ -235,3 +235,16 @@ Compliance with requirements for Trade Unions and Works Councils (Germany) may a
 
 Employee personal data collected through monitoring must be held securely, accessed only by those with a legitimate reason, and deleted once no longer needed. Monitoring must be necessary, proportional, transparent and legitimate in order to be lawful.
 
+
+# Security of Processing
+
+## Appropriate technical and organisational measures
+Article 32 requirest appropriate security measures to be put in place. Security measures should be appropriate to the risk. This should include:
+
+* Pseudonymisation and encryption
+* Ability to ensure Confidentiality, Integrity, Availability and Resilience
+* Ability to restore the availability and access to personal data
+* Process for regularly testing, assessing and evaluating
+
+## Engaging Processors
+Article 28 requires controllers to only use processors that use sufficient controls to meet GDPR requirements. Processing must occur under a contract.
