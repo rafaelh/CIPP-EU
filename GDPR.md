@@ -310,6 +310,28 @@ Processor:
 * A general description of technical and organisational security measures
 * Categories of processing carried out on behalf of the controller
 
+## DPO
+Staff member or contractor. Must be an expert in data protection law. A DPO is required if:
+
+* The controller is a public authority
+* Core activities include regular and systematic monitoring on a large scale
+* Core activities include large-scale processing of special categories of data
+
+A DPO is required to:
+
+* Ensure compliance with the Regulation
+* Advise the controller and the processors
+* Manage Risk
+* Be a point of contract
+* Communicate
+* Monitor DPIAs
+* Exercise professional secrecy
+
+The DPO must report to the highest level of management, and neither the controller or processor should instruct them in their tasks or curtail their actions.
+
+
+
+
 
 
 
