@@ -67,5 +67,5 @@ Unlike the Council of Europe, the EU can't make stand-alone Human Rights laws, a
 
 Key directive concepts include 'Necessity' with regards to processing data lawfully. The directive also included manual 'filing system' data in the requirements for data protection, articulates 'special categories' of data, data subject rights, and requires the establishment of Data Protection Authorities in signatory countries.
 
-The directive is currently under review and will be updated.
+The directive is was repealed by the implementation of the GDPR.
 
