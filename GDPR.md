@@ -264,8 +264,54 @@ This went into effect in May 2018 and is the first EU-wide cybersecurity law. Th
 GDPR requires companies to:
 
 * Incorporate Privacy by Design and Default
-* Conduct Data Privacy Impact Assessments
+* Conduct Data Privacy Impact Assessments (DPIA)
 * Have a Data protection policy
 * Keep records demonstrating it is compliant with the GDPR
 * Potentially have a Data Protection Officer
+
+## DPIAs
+A DPIA is required if processing is likely to entail a high risk to the rights and freedoms of a data subject. The use of new technologies increases the risk to the data subject, as the full consequences are not as well established. Similarly, a DPIA is required in these other circumstances:
+
+* Where there is a systematic and extensive evaluation of a data subject which is based on automatic processing, including profiling 
+* Processing that produces legal effects
+* Large scale processing of special categories of data or of personal data relating to criminal convictions and offences
+* Conducting systematic monitoring of a publically accessible area on a large scale
+
+DPIAs should include:
+
+* A description of the processing
+* Necessity, proportionality and risks of the processing
+* Measures to address those risks
+
+Consultation with the supervisory authority must occur if there is a high risk to the data subject which is not mitigated.
+
+## Data Protection Policy
+This should describe how personal data is used, and what the consequences are for improper use. It is part of the 'technical and organisational measures' required in some cases by GDPR - where it is 'proportunate in relation to activities'. 
+
+## Records
+This is required for processing organisations of 250 or more employees, or any time when:
+* the processing is likely to result in a risk to the rights and freedoms of data subjects.
+* the processing is not occasional
+* it includes special categories of data or data relating to criminal convictions and offences
+
+The records required to be kept include:
+
+Controller:
+* Name & contact information of the controller and the DPO
+* International data transfers and the measures to ensure they are lawful
+* A general description of technical and organisational security measures
+* Purposes of processing
+* Categories of data subjects, personal data, and recipients of that data
+* How long the personal data is being retained and the timeline for deleting that data
+
+Processor:
+* Name & contact information of _the processor_, the controller and the DPO
+* International data transfers and the measures to ensure they are lawful
+* A general description of technical and organisational security measures
+* Categories of processing carried out on behalf of the controller
+
+
+
+
+
 
