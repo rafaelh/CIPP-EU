@@ -1,5 +1,7 @@
-# OECD Guidelines
+# UK Data Protection Act 2018
+A UK-only law which implements GDPR. In the event of Brexit, this law incorporates GDPR directly into domestic law immediately after the UK exits the European Union. 
 
+# OECD Guidelines
 Developed in 1980, the _OECD Guidelines on the Protection of Privacy and Transborder flows of Personal Data_ lays out basic rules for trans-border data flows and the protection of personal information, to help harmonize the laws between countries. They were prepared in close cooperation with the Council of Europe, and are __not legally binding__. They don't distinguish between automated and non-automated processing. The Principals are:
 
 * **Collection Limitation**: Personal information must be collected fairly and lawfully and with the knowledge or consent of the individual concerned

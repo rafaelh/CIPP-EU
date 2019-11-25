@@ -1,7 +1,7 @@
 # The ePrivacy Directive
 Officially Directive 2002/58/EC, also known as the Cookie Directive or Privacy and Electronic Communications Directive. Whereas the GDPR regulates Personal Data, the ePrivacy Directive addresses the confidentiality of communicatiosn over public networks, setting out rules for:
 
-* **Location data** - only to be processed with consent or if anonymised, and the subject must be informed beforehand and have the ability to opt out. Carriers may process location data to provide their service.
+* **Location data** - only to be processed with consent or if anonymised, and the subject must be informed beforehand and have the ability to Opt-Out. Carriers may process location data to provide their service.
 
 * **Content data** - needs to be protected and remain confidential. Member states are to ensure that listening, tapping, storage or other surveillance doesn't occur unlawfully.
 
@@ -15,6 +15,6 @@ Differences from GDPR:
 * Where GDPR is based on 6 legal bases, ePrivacy is soley based on Consent. 
 
 Other Requirements of the Directive:
-* Email addresses may not be used for marketing purposes without Opt-in. Companies who collect an email address in the context of the sale of a product or service may use the email for marketing as long as the subject can opt out. 
+* Email addresses may not be used for marketing purposes without Opt-In. Companies who collect an email address in the context of the sale of a product or service may use the email for marketing as long as the subject can Opt-Out. 
 
 If data is travelling over an intranet, ePrivacy rules do not apply, since it isn't a public network. There are also the usual exceptions for national security, which constitutes lawful surveillance.

@@ -258,3 +258,14 @@ This went into effect in May 2018 and is the first EU-wide cybersecurity law. Th
 * National Capabilities
 * Cross-border collaboration
 * National supervision of critical sectors
+
+
+# Accountability
+GDPR requires companies to:
+
+* Incorporate Privacy by Design and Default
+* Conduct Data Privacy Impact Assessments
+* Have a Data protection policy
+* Keep records demonstrating it is compliant with the GDPR
+* Potentially have a Data Protection Officer
+
