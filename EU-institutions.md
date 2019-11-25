@@ -52,12 +52,6 @@ Based in Luxembourg, the Court is the judicial body of the EU. It makes decision
 
 It can be confused with the EHCR, which enforces Human Rights across Europe and some non-European countries.
 
-## European Data Protection Board (EDPB) / Article 29 Working Party
-Independant advisory body composed of representatives from the EU DPAs, EDPS and European Commission. Its opinions are not legally binding, but pre-empt how the insitutions of the EU will react.
-
-## European Data Protection Supervisor (EDPS)
-The EDPS regulates compliance with data protection law within the institutions of the European Union, but national DPAs may also have jurisdiction in such matters.
-
 
 Power Across EU institutions:
 
