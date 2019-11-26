@@ -69,3 +69,10 @@ Key directive concepts include 'Necessity' with regards to processing data lawfu
 
 The directive is was repealed by the implementation of the GDPR.
 
+# The Data Retention Directive
+Issued by the European Parliament and Council in 2006, it amends the data retention requirements of the e-Privacy Directive for public networks. It places requirements on communication providers to ensure that traffic and location data is available for serious crime and anti-terrorism purposes. It does not apply to the content of communications, only the traffic and location data. It requires maintaining metadata such as IP logs, call logs, email headers, etc. The data can only subsequently be provided to 'competent' national authorities with 'specially authorized personnel' without 'undue delay'.
+
+Member states can set the retention period, as long as it is between 6 months and 2 years, after which the information must be erased.
+
+It may potentially be repealed, and was invalidated in Germany. 
+
