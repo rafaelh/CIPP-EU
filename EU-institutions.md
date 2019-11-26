@@ -1,6 +1,6 @@
 # EU INSTITUTIONS
 
-The European Union is made up of **28** Member states. Iceland, Lichtenstein and Norway are EFTA members that add to the EU to make the EEA.
+The European Union is made up of **28** Member states. **Iceland**, **Lichtenstein** and **Norway** are EFTA members that add to the EU to make the EEA.
 
 The EU's institutions are:
 
@@ -37,7 +37,7 @@ This is the only European Institution whose members are elected by the citizens 
 
 Elections for Members of the European Parliament (MEPs) are held every 5 years. All EU citizens may vote or stand as candidates. There are about 750 of them. The Parliament's main impact on privacy is through legislation.
 
-# Council of the European Union (Council of Ministers)
+# 'The Council' of the European Union (Council of Ministers)
 Established in the 1950s, it is the main decision-making body of the EU. It is attended by one minister from each member state, with the power to commit their government. The Council shares legislative power with the European Parliament.
 
 Legislation is generally proposed by the Commission, then examined by the Council and Parliament. The Council has the power to amend the proposal before it is adopted. Examples include international agreements.

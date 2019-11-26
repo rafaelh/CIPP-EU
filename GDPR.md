@@ -74,7 +74,7 @@ Processing data is lawful if at least one of the following legal bases applies:
 ## Processing Special Categories
 Processing of special categories is prohibited, unless an exception applies:
 
-* Explicit Consent
+* Explicit Consent (requires active confirmation, orally or in writing)
 * In the context of Employment, to comply with a legal obligation
 * Vital interests, where consent is not possible and the controller has tried to obtain it
 * Political, philosophical and religious purposes - foundations, associations and not-for-profits may process data about their own members
@@ -98,7 +98,7 @@ Consent must be:
 * Informed - the subject should know hte controller's identity, purpose, and information about how processing may affect data subjects
 * Withdrawing consent should be as easy as giving it
 * For a specific purpose (with some flexibility for scientific research)
-* given by a parent for Children's data when the subject is younger than 16. Member states can lower this age down to 13.
+* given by a parent for Children's data when the subject is younger than 16. Member states can lower this age down to a minimum of 13.
 
 Controllers must keep records of consent, under the Accountability principle. A service or the performance of a contract should **not** be conditional upon consent.
 
@@ -202,7 +202,7 @@ Transfers to Adequate countries do not require additional safeguards. Adequacy d
 ## Derogations
 As a last resort, data can be transfered to a non-adequate, non-EEA country without a safeguard, with a derogation. These have been carried over from the Data Protection Directive, and are only for the following cases:
 
-* Consent (difficult to achieve _informed_ consent, given the risks)
+* Explicit Consent, where the risks have been explained (_difficult to achieve_)
 * For the Performance of a Contract (eg booking a hotel in a 3rd country)
 * Public Interest
 * Establishment, exercise or defence of legal claims
