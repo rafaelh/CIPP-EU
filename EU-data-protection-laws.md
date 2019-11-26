@@ -45,7 +45,7 @@ It consists of three main parts:
    b. Stored for specified and legitimate purposes, and not used otherwise
    c. Adequate, relevant and not excessive in relation to the purposes
    d. Accurate and where necessary, kept up to date
-   e. Preserved in a form that permists identification of individuals for no longer than is required for the purpose for which the information is stored
+   e. Preserved in a form that permits identification of individuals for no longer than is required for the purpose for which the information is stored
 2. Appropriate security measures must be taken against accidental destruction, alteration or access
 3. Special categories of data (secual life, criminal convictions, etc) must not be processed automatically unless domestic law provides appropriate safeguards
 4. Individuals must have the right of communication, rectification and erasure
